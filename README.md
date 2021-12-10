@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [NextJs Blog](https://github.com/Rohitchaudhary13/NextJs-Blog)
 
-- 🌱 I’m currently learning **ReactJs, Flutter**
+- 🌱 I’m currently learning **ReactJs, Mongodb**
 
 - 🤝 I’m looking for help with **Linux**
 
