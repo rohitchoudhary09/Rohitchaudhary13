@@ -24,4 +24,4 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohitchaudhary13&show_icons=true&theme=tokyonight)
-<!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitchaudhary13&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=tokyonight" /></a>
+<!-- wi*quL3fcV -->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitchaudhary13&layout=compact)](https://github.com/Rohitchaudhary13/github-readme-stats)
