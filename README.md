@@ -25,4 +25,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohitchaudhary13&show_icons=true&theme=tokyonight)
 <!-- wi*quL3fcV -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitchaudhary13&layout=compact&theme=tokyonight)](https://github.com/Rohitchaudhary13/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitchaudhary13&layout=compact&theme=tokyonight)]
