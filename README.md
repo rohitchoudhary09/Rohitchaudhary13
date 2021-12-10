@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Linux**
 
-- 📝 I regularly write articles on [https://fitnesstepz.com/](https://fitnesstepz.com/)
+- 📝 I write articles on [https://fitnesstepz.com/](https://fitnesstepz.com/)
 
 - 💬 Ask me about **C/C++, Frontend development**
 
