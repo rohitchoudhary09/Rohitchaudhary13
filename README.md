@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [College Management System](https://github.com/Rohitchaudhary13/College-Management-system)
+- 🔭 I’m currently working on [NextJs Blog](https://github.com/Rohitchaudhary13/NextJs-Blog)
 
 - 🌱 I’m currently learning **ReactJs, Flutter**
 
