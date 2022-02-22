@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently working on [NextJs Blog](https://github.com/Rohitchaudhary13/NextJs-Blog)
+- 🔭 I’m currently working on [Netflix Clone](https://netflix-clone-rohitchaudhary13.vercel.app/)
 
-- 🌱 I’m currently learning **ReactJs, Mongodb**
+- 🌱 I’m currently learning **React Native, Mongodb**
 
-- 🤝 I’m looking for help with **Linux**
+- 🤝 I’m looking for help with **Flutter**
 
 - 📝 I write articles on [https://fitnesstepz.com/](https://fitnesstepz.com/)
 
