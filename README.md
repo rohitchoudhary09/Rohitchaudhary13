@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Netflix Clone](https://netflix-clone-rohitchaudhary13.vercel.app/)
 
-- 🌱 I’m currently learning **Unisys, Solana**
+- 🌱 I’m currently learning **DAOs, Solana**
 
-- 🤝 I’m looking for help with **Unisys**
+- 🤝 I’m looking for help with **DAOs**
 
 - 📝 I post videos on [Xcoderse](https://www.youtube.com/channel/UCStJJmtgJnLoTKBRi9cOQSg)
 
