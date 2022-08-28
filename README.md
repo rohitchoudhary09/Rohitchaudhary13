@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on [Netflix Clone](https://netflix-clone-rohitchaudhary13.vercel.app/)
 
-- 🌱 I’m currently learning **React Native, Mongodb**
+- 🌱 I’m currently learning **Unisys, Solana**
 
-- 🤝 I’m looking for help with **Flutter**
+- 🤝 I’m looking for help with **Unisys**
 
-- 📝 I write articles on [https://fitnesstepz.com/](https://fitnesstepz.com/)
+- 📝 I post videos on [Xcoderse](https://www.youtube.com/channel/UCStJJmtgJnLoTKBRi9cOQSg)
 
 - 💬 Ask me about **C/C++, Frontend development**
 
-- ✌️ My Portfolio Website [Click Here](https://rohitchoudhary13.vercel.app/)
+- ✌️ My Portfolio Website [Click Here](https://rohit-five.vercel.app/)
 
 
 
