@@ -5,15 +5,15 @@
 
 
 
-- 🔭 I’m currently working on [Netflix Clone](https://netflix-clone-rohitchaudhary13.vercel.app/)
+- 🔭 I’m currently working on [NFTs]
 
-- 🌱 I’m currently learning **DAOs, Solana**
+- 🌱 I’m currently learning **DAOs, DAPPs**
 
-- 🤝 I’m looking for help with **DAOs**
+- 🤝 I’m looking for help with **Solana**
 
 - 📝 I post videos on [Xcoderse](https://www.youtube.com/channel/UCStJJmtgJnLoTKBRi9cOQSg)
 
-- 💬 Ask me about **C/C++, Frontend development**
+- 💬 Ask me about **C/C++, Web Development**
 
 - ✌️ My Portfolio Website [Click Here](https://rohit-five.vercel.app/)
 
