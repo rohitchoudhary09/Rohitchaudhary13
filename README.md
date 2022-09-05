@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Choudhary</h1>
-<h3 align="center">A Passionate Tech Enthusiast from India</h3>
+<h3 align="center">A web3 enthusiast, learning & developing platforms for fun!</h3>
 
 ![banner](https://user-images.githubusercontent.com/71605903/127789544-097c5c27-b6aa-4b4d-8de1-23e99945016b.png)
 
