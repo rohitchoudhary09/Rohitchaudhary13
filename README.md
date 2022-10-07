@@ -3,7 +3,7 @@
 
 ![banner](https://user-images.githubusercontent.com/71605903/127789544-097c5c27-b6aa-4b4d-8de1-23e99945016b.png)
 
-
+![](https://komarev.com/ghpvc/?username=Rohitchaudhary13&color=blueviolet)
 
 - 🔭 I’m currently working on [NFTs]
 
@@ -17,7 +17,7 @@
 
 - ✌️ My Portfolio Website [Click Here](https://rohit-five.vercel.app/)
 
-![](https://komarev.com/ghpvc/?username=Rohitchaudhary13&color=green)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
