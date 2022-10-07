@@ -26,3 +26,5 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitchaudhary13&layout=compact&theme=tokyonight)
+
+![Snake animation](https://github.com/Rohitchaudhary13/Rohitchaudhary13/blob/output/github-contribution-grid-snake.svg)
