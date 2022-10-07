@@ -47,6 +47,8 @@
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
+<a href="https://www.buymeacoffee.com/rohitchaudhary" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitchaudhary13&layout=compact&theme=tokyonight)
 
 ![Snake animation](https://github.com/Rohitchaudhary13/Rohitchaudhary13/blob/output/github-contribution-grid-snake.svg)
