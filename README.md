@@ -57,5 +57,5 @@
 ---
 <p align="center"> © 2021 Rohit Choudhary, all rights reserved. Made with ❤️ for a better web. </p>
 <p align="center">
-https://rohit-five.vercel.app/
+https://rohit-chaudharyy.vercel.app/
 </p>
