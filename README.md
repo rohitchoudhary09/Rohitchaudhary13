@@ -3,7 +3,8 @@
 
 ![banner](https://user-images.githubusercontent.com/71605903/127789544-097c5c27-b6aa-4b4d-8de1-23e99945016b.png)
 
-![](https://komarev.com/ghpvc/?username=Rohitchaudhary13&color=blueviolet)
+![counter](https://enq0vb9x6jztmpm.m.pipedream.net)
+
 
 # 💫 About Me:
 🔭 I’m currently working on MERN stack<br>👯 I’m looking to collaborate on Web3<br>🤝 I’m looking for help with Docker<br>🌱 I’m currently learning Cloud<br>💬 Ask me about C/C++, Python, MERN<br>✌️ My Portfolio Website
@@ -15,8 +16,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitchaudhary13&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!-- ![](https://komarev.com/ghpvc/?username=Rohitchaudhary13&color=blueviolet) -->
 
-![counter](https://enq0vb9x6jztmpm.m.pipedream.net)
 
 ![Snake animation](https://github.com/Rohitchaudhary13/Rohitchaudhary13/blob/output/github-contribution-grid-snake.svg)
 
