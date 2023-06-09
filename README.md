@@ -16,14 +16,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rohitchaudhary13&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitchaudhary13&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rohitchaudhary13&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Rohitchaudhary13&label=Profile%20Views%20&color=4&pretty=true)](https://visitcount.itsvg.in)
 
 ![counter](https://https://enq0vb9x6jztmpm.m.pipedream.net)
 
