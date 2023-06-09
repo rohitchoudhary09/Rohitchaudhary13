@@ -23,7 +23,8 @@
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rohitchaudhary13&label=Profile%20Views%201170&color=4&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Rohitchaudhary13&label=Profile%20Views%20&color=4&pretty=true)](https://visitcount.itsvg.in)
+
 ![counter](https://https://enq0vb9x6jztmpm.m.pipedream.net)
 
 ![Snake animation](https://github.com/Rohitchaudhary13/Rohitchaudhary13/blob/output/github-contribution-grid-snake.svg)
