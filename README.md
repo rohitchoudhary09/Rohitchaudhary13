@@ -3,8 +3,6 @@
 
 <!-- ![banner](https://user-images.githubusercontent.com/71605903/127789544-097c5c27-b6aa-4b4d-8de1-23e99945016b.png) -->
 
-![banner](https://github.com/Rohitchaudhary13/Rohitchaudhary13/assets/71605903/ff4a4fbb-196f-4e4a-a96a-21e03a2f7f08)
-
 ![counter](https://enq0vb9x6jztmpm.m.pipedream.net)
 
 
