@@ -27,5 +27,5 @@
 ---
 <p align="center"> © 2021 Rohit Choudhary, all rights reserved. Made with ❤️ for a better web. </p>
 <p align="center">
-https://rohit-chaudharyy.vercel.app/
+[https://rohit-chaudharyy.vercel.app/](https://rohitchaudhary.framer.website/)
 </p>
